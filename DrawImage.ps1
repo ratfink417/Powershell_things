@@ -1,4 +1,5 @@
-# Uses the Reflection api to load dlls from windows to perform drawing functions and plaster an image on the screen
+# Uses the Reflection api to load dlls from windows system api's to  plaster an image on the screen that the user cannot alt-tab away from
+# If you disable the alt-f4 key combo in regedit, it will keep the user from being able to close the image.
 
 
 
