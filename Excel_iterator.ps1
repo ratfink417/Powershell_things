@@ -12,7 +12,6 @@ $rowMax = ($sheet.UsedRange.Rows).count
 $rowName,$colName = 1,1
 $rowAge,$colAge = 1,2
 $rowCity,$colCity = 1,3
-$rowGay, $colGay = 1,4
 
 clear
 
